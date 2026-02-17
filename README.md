@@ -1,0 +1,2 @@
+# RiseHuntBot
+Бот сообщества RiseHunters
